@@ -1,3 +1,5 @@
+![python-list](https://socialify.git.ci/lkcdm/python-list/image?description=1&language=1&name=1&owner=1&pattern=Floating%20Cogs&theme=Light)
+
 ## 功能 / Features 🛠️
 
 - **任务分类 / Task Categorization**：支持将任务分为不同的类别，例如工作、个人等。Supports dividing tasks into different categories, such as Work, Personal, etc.
